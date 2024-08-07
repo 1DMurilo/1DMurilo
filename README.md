@@ -1,4 +1,4 @@
-### Boas Vindas Ao Meu ** Perfil! **
+### Boas Vindas Ao Meu Perfil!
 
 Meu Nome é Murilo Garcia Gusmão
 
@@ -8,7 +8,7 @@ Meu Nome é Murilo Garcia Gusmão
 
 •Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
 
-Voce pode entrar em contato comigo 📞
+### Voce pode entrar em contato comigo 📞
 
 00001121072252sp@al.educacao.sp.gov.br
 
